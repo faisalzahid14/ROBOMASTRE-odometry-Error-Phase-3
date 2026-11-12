@@ -16,4 +16,4 @@ Use Ubuntu with a connected RoboMaster EP Core and the DJI RoboMaster Python SDK
 
 ## Submission status
 
-The report and code are included. A demonstration video was requested by the brief but no video file was available in the supplied project or Downloads folder at publication time.
+The report, code, and [demonstration video](demonstration.mp4) are included.
