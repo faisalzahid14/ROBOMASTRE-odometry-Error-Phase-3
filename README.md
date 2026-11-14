@@ -1,6 +1,6 @@
 # ROBOMASTRE odometry Error Phase 3
 
-RoboMaster EP Core odometry experiment for SCE 672 at KFUPM. The [report](RoboMaster_Phase3_Report.pdf) contains the method, eight trials, error calculations, and discussion. The [assignment brief](RoboMaster_Odometry_Project_Phase_3-2.pdf) specifies the submission requirements.
+RoboMaster EP Core odometry experiment for SCE 672 at KFUPM. The [report](RoboMaster_Phase3_Report.pdf) contains the method, formulas and theory, AI-assisted code assessment, eight trial scatter plots, a final scatter plot, error calculations, and statistical analysis. The [assignment brief](RoboMaster_Odometry_Project_Phase_3-2.pdf) specifies the submission requirements.
 
 ## Recorded experiment
 
@@ -16,4 +16,4 @@ Use Ubuntu with a connected RoboMaster EP Core and the DJI RoboMaster Python SDK
 
 ## Submission status
 
-The report, code, and [demonstration video](demonstration.mp4) are included.
+The [report](RoboMaster_Phase3_Report.pdf), code, and [demonstration video](demonstration.mp4) are included. The [GitHub repository](https://github.com/faisalzahid14/ROBOMASTRE-odometry-Error-Phase-3) hosts the submission. Regenerate the PDF from the corrected CSV with `MPLCONFIGDIR=/tmp/mpl_phase3 python3 build_submission_report.py`. The graph for each trial compares its two recorded final values; the experiment did not log per-step estimates. The Trial 1 tape correction should be checked against field notes or video because the logged CSV alone cannot verify it.
